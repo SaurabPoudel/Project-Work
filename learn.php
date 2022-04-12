@@ -6,9 +6,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="style/register.css">
     <style type="text/css">
-    	a{
 
-    	}
     </style>
 </head>
 <body>
